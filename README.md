@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Vi+-+AI+Engineer" alt="Typing SVG" />
 </p>
----
 
 I build **production-minded AI systems**: data → models → evaluation → APIs → deployment.  
 Current focus: **Computer Vision pipelines**, **RAG/LLM systems**, and **MLOps** (Docker, CI/CD).
