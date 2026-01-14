@@ -60,17 +60,3 @@ Current focus: **Computer Vision pipelines**, **RAG/LLM systems**, and **MLOps**
 6. **Monitor** (drift/quality checks where applicable)
 
 ---
-
-## Repository Notes
-This is my **GitHub profile README**.  
-Pinned repos highlight end-to-end AI builds (CV/RAG) with:
-- reproducible environments
-- clear architecture
-- evaluation and reporting
-
----
-
-## Contact
-If you’re hiring for **AI Engineer / Applied ML / CV / RAG** roles, feel free to reach out:
-- minhvi176@gmail.com
-- https://www.linkedin.com/in/minhvinguyen
