@@ -1,4 +1,4 @@
-# Minh Vi Nguyen (MinhViNguyen) — AI Engineer / Applied ML
+# Minh Vi Nguyen — AI Engineer / Applied ML
 
 I build **production-minded AI systems**: data → models → evaluation → APIs → deployment.  
 Current focus: **Computer Vision pipelines**, **RAG/LLM systems**, and **MLOps** (Docker, CI/CD).
