@@ -6,11 +6,10 @@ I build **production-minded AI systems**: data → models → evaluation → API
 Current focus: **Computer Vision pipelines**, **RAG/LLM systems**, and **MLOps** (Docker, CI/CD).
 
 - 📍 Melbourne, Australia
-- 🎓 BCompSci (AI), La Trobe University (GPA 91/100) | Provost’s Commendation 2024
+- 🎓 BCompSci (AI), La Trobe University (GPA 90/100) | Provost’s Commendation 2024
 - 🔭 Interested in: CV, RAG, agents, evaluation, deployment, responsible AI
 
 ## Quick Links
-- GitHub: https://github.com/minhving
 - LinkedIn: https://www.linkedin.com/in/minhvinguyen
 - Portfolio: https://www.minhvinguyen.com
 - Email: minhvi176@gmail.com
