@@ -11,7 +11,7 @@ Current focus: **Computer Vision pipelines**, **RAG/LLM systems**, and **MLOps**
 
 ## Quick Links
 - LinkedIn: https://www.linkedin.com/in/minhvinguyen
-- Portfolio: https://www.minhvinguyen.com
+- Portfolio: https://minhvinguyen.com
 - Email: minhvi176@gmail.com
 
 ---
